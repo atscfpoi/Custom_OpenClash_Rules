@@ -1,3 +1,7 @@
+IP-CIDR,116.205.193.167/32,no-resolve
+IP-CIDR,123.56.23.22/32,no-resolve
+IP-CIDR,182.254.116.116/32,no-resolve
+IP-CIDR,203.205.137.89/32,no-resolve
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN-SUFFIX,16dd-advertise-1252317822.image.myqcloud.com
