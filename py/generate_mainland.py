@@ -1,5 +1,5 @@
 # 文件路径
-file1_path = "https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/Filters/AWAvenue-Ads-Rule-Mosdns_v5.txt"
+file1_path = "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/Filters/AWAvenue-Ads-Rule-Mosdns_v5.txt"
 file2_path = "own/AWAvenue-Ads-Rule-sycn.list"
 
 def generate_mainland():
@@ -8,7 +8,7 @@ def generate_mainland():
 
     # 替换域名
     content = content.replace(
-        "https://raw.githubusercontent.com",
+        "domain:",
         "DOMAIN-SUFFIX,"
     )
 
