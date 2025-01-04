@@ -3,7 +3,7 @@ name: Update Custom_Clash_Mainland.ini
 on:
   push:
     paths:
-      - cfg/Custom_Clash.ini
+      - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/Filters/AWAvenue-Ads-Rule-Mosdns_v5.txt
 
 jobs:
   update-mainland:
