@@ -1,6 +1,6 @@
 # 文件路径
 file1_path = "https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/Filters/AWAvenue-Ads-Rule-Mosdns_v5.txt"
-file2_path = "cfg/Custom_Clash_Mainland.ini"
+file2_path = "own/AWAvenue-Ads-Rule-sycn.list"
 
 def generate_mainland():
     with open(file1_path, "r", encoding="utf-8") as f1:
