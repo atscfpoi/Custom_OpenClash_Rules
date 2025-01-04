@@ -9,7 +9,7 @@ def generate_mainland():
     # 替换域名
     content = content.replace(
         "https://raw.githubusercontent.com",
-        "https://gh-proxy.com/https://raw.githubusercontent.com"
+        "DOMAIN-SUFFIX,"
     )
 
     # 写入文件2
