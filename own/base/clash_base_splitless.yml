@@ -44,9 +44,7 @@ dns:
   listen: 0.0.0.0:53
   enhanced-mode: fake-ip # 模式：redir-host或fake-ip
   nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
-    - 8.8.8.8
+    - https://d376904060.666.66a.net/dns-query/h376904060
   fallback:
     - 8.8.4.4
     - 1.1.1.1
