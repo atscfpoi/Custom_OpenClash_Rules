@@ -35,7 +35,7 @@ dns:
   enhanced-mode: fake-ip # 模式：redir-host或fake-ip
   fake-ip-filter-mode: blacklist
   nameserver:
-  - https://d376904060.666.66a.net/dns-query/h376904060
+  - https://8.8.8.8/hdahdahask
   fake-ip-filter:
   - "*.lan"
   - "*.localdomain"
