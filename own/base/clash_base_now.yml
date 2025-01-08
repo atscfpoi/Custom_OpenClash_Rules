@@ -36,8 +36,6 @@ dns:
   fake-ip-filter-mode: blacklist
   nameserver:
   - https://d376904060.666.66a.net/dns-query/h376904060
-  - https://ipv4.apad.pro/dns-query
-  - https://doh-2836bc6c-meta.doh.pub/dns-query
   fake-ip-filter:
   - "*.lan"
   - "*.localdomain"
