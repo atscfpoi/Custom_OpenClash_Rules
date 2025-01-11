@@ -1,12 +1,3 @@
-#Title: AWAvenue Ads Rule
-#fork:https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/Filters/AWAvenue-Ads-Rule-Mosdns_v5.txt
-#fork:https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/Filters/AWAvenue-Ads-Rule-Mosdns_v5.txt
-#在更新时，请参考改为以下格式，“domain:”替代为“DOMAIN-SUFFIX,”
-
-IP-CIDR,116.205.193.167/32,no-resolve
-IP-CIDR,123.56.23.22/32,no-resolve
-IP-CIDR,182.254.116.116/32,no-resolve
-IP-CIDR,203.205.137.89/32,no-resolve
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,8le8le.com
 DOMAIN-SUFFIX,a0.app.xiaomi.com
