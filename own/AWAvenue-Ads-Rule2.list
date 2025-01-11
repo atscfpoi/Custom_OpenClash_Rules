@@ -8,8 +8,6 @@ IP-CIDR,123.56.23.22/32,no-resolve
 IP-CIDR,182.254.116.116/32,no-resolve
 IP-CIDR,203.205.137.89/32,no-resolve
 DOMAIN-SUFFIX,1010pic.com
-DOMAIN-SUFFIX,16dd-advertise-1252317822.file.myqcloud.com
-DOMAIN-SUFFIX,16dd-advertise-1252317822.image.myqcloud.com
 DOMAIN-SUFFIX,8le8le.com
 DOMAIN-SUFFIX,a0.app.xiaomi.com
 DOMAIN-SUFFIX,aaid.umeng.com
@@ -388,6 +386,7 @@ DOMAIN-SUFFIX,kepler.jd.com
 DOMAIN-SUFFIX,kl.67it.com
 DOMAIN-SUFFIX,klink.volceapplog.com
 DOMAIN-SUFFIX,knicks.jd.com
+DOMAIN-SUFFIX,ks.ferlytc.com
 DOMAIN-SUFFIX,ks.pull.yximgs.com
 DOMAIN-SUFFIX,launcher.smart-tv.cn
 DOMAIN-SUFFIX,launcherimg.smart-tv.cn
@@ -458,6 +457,7 @@ DOMAIN-SUFFIX,mime.baidu.com
 DOMAIN-SUFFIX,mine.baidu.com
 DOMAIN-SUFFIX,mission-pub.smart-tv.cn
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com
+DOMAIN-SUFFIX,mmgame.qpic.cn
 DOMAIN-SUFFIX,mnqlog.ldmnq.com
 DOMAIN-SUFFIX,mobads-logs.baidu.com
 DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
@@ -727,6 +727,7 @@ DOMAIN-SUFFIX,ws-keyboard.shouji.sogou.com
 DOMAIN-SUFFIX,ws.sj.qq.com
 DOMAIN-SUFFIX,www42.zskwai.com
 DOMAIN-SUFFIX,wxa.wxs.qq.com
+DOMAIN-SUFFIX,wxaintpcos.wxqcloud.qq.com.cn
 DOMAIN-SUFFIX,wximg.wxs.qq.com
 DOMAIN-SUFFIX,wxsmw.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsad.tc.qq.com
@@ -746,4 +747,4 @@ DOMAIN-SUFFIX,ykad-gateway.youku.com
 DOMAIN-SUFFIX,youku-acs.m.taobao.com
 DOMAIN-SUFFIX,youxi.kugou.com
 DOMAIN-SUFFIX,zeus.ad.xiaomi.com
-DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.co
